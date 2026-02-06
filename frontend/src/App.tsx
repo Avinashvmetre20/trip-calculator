@@ -8,6 +8,7 @@ import Dashboard from './pages/dashboard/Dashboard';
 import TripDetails from './pages/trip/TripDetails';
 import JoinTrip from './pages/trip/JoinTrip';
 import ActivateAccount from './pages/auth/ActivateAccount';
+//test
 
 const Home = () => {
   const { isAuthenticated } = useAuth();
